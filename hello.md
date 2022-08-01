@@ -1,4 +1,4 @@
-### hello git!
+### hello git! hot-fix
 
 1. git bash here
 2. git init
@@ -15,3 +15,4 @@
  命令模式下输入i切换成编辑模式
 13. git restore file.ext 丢弃已保存的文件
 14. git reset --hard 版本号
+
