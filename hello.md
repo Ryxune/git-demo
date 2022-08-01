@@ -15,5 +15,5 @@ x
 12. vim 命令模式(默认模式),编辑模式下按ESC键切换成命令模式
  命令模式下输入i切换成编辑模式
 13. git restore file.ext 丢弃已保存的文件
-14. git reset --hard 版本号 // master test
+14. git reset --hard 版本号 // master test hot-fix test
 
